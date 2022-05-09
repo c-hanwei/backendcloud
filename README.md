@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Metrics](/github-metrics.svg)
 ![Metrics](https://github.com/backendcloud/backendcloud/blob/main/github-metrics.svg)
 
 ## 👋 Find me on the web
