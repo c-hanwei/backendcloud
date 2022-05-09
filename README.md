@@ -19,6 +19,4 @@ Here are some ideas to get you started:
 
 <img align="middle" src="https://github-readme-stats.vercel.app/api?username=backendcloud&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=backendcloud&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=backendcloud)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=backendcloud&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
