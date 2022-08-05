@@ -17,8 +17,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 ![Metrics](/github-metrics.svg)
 ![Metrics](https://github.com/backendcloud/backendcloud/blob/main/github-metrics.svg)
+-->
 
 ## 👋 Find me on the web
 
@@ -29,6 +31,6 @@ Here are some ideas to get you started:
 💼 [https://linkedin.com](https://www.linkedin.com/in/xxx/)
 -->
 
-<img align="middle" src="https://github-readme-stats.vercel.app/api?username=backendcloud&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+<img align="middle" src="https://github-readme-stats.vercel.app/api?username=backendcloud&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true&include_all_commits=true" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=backendcloud&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
